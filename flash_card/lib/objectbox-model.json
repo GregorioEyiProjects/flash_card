@@ -1,0 +1,81 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:7916660423879946336",
+      "lastPropertyId": "13:8776231869715504801",
+      "name": "FlashCard",
+      "properties": [
+        {
+          "id": "1:9162569464758638157",
+          "name": "id",
+          "type": 6,
+          "flags": 129
+        },
+        {
+          "id": "4:8062346015727682522",
+          "name": "synonyms",
+          "type": 30
+        },
+        {
+          "id": "5:9194612759747734491",
+          "name": "word",
+          "type": 9
+        },
+        {
+          "id": "6:5082641222951489697",
+          "name": "imageURL",
+          "type": 9
+        },
+        {
+          "id": "8:5161211904907517395",
+          "name": "audio",
+          "type": 9
+        },
+        {
+          "id": "9:8954753790303801205",
+          "name": "definition",
+          "type": 30
+        },
+        {
+          "id": "10:2743650312735533332",
+          "name": "antonyms",
+          "type": 30
+        },
+        {
+          "id": "11:8427263615584376166",
+          "name": "stems",
+          "type": 30
+        },
+        {
+          "id": "12:2883366726882652111",
+          "name": "isFavorite",
+          "type": 1
+        },
+        {
+          "id": "13:8776231869715504801",
+          "name": "isLearned",
+          "type": 1
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:7916660423879946336",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    5723617682574621536,
+    180507574736558726,
+    2990859485798090787
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
