@@ -62,16 +62,12 @@ A Flutter app for learning and managing vocabulary with flashcards, pronunciatio
 - [path](https://pub.dev/packages/path)
 - [geolocator](https://pub.dev/packages/geolocator)
 - [shared_preferences](https://pub.dev/packages/shared_preferences)
-- [intl](https://pub.dev/packages/intl)
+
 
 ## API Keys
 
 Some features require API keys (e.g., for dictionary or geolocation APIs).  
 Add your keys in the appropriate files as environment variables or constants.
-
-## License
-
-[MIT](LICENSE)
 
 ---
 
