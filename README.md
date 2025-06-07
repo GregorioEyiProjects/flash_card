@@ -70,5 +70,7 @@ Some features require API keys (e.g., for dictionary or geolocation APIs).
 Add your keys in the appropriate files as environment variables or constants.
 
 ---
+## Author
 
-*Happy learning!*
+Gregorio Eyi (GP) 
+
