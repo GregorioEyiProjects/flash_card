@@ -2,6 +2,9 @@
 
 A Flutter app for learning and managing vocabulary with flashcards, pronunciation audio, and more.
 
+## Flash card
+![Home page](./screenshots/image.png)
+
 ## Features
 
 - Add, view, and manage flashcards
